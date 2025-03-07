@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   utils_2.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gchauvet <gchauvet@student.42.fr>          +#+  +:+       +#+        */
+/*   By: gchauvet <amog_sus@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 13:40:45 by gchauvet          #+#    #+#             */
 /*   Updated: 2025/03/04 14:54:38 by gchauvet         ###   ########.fr       */

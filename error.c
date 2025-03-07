@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   error.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gchauvet <gchauvet@student.42.fr>          +#+  +:+       +#+        */
+/*   By: gchauvet <amog_sus@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/14 11:22:31 by gchauvet          #+#    #+#             */
 /*   Updated: 2025/03/07 12:40:30 by gchauvet         ###   ########.fr       */
