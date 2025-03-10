@@ -3,15 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gchauvet <amog_sus@student.42.fr>          +#+  +:+       +#+        */
+/*   By: gchauvet <****************.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/20 11:53:44 by gchauvet          #+#    #+#             */
-/*   Updated: 2025/03/07 12:44:25 by gchauvet         ###   ########.fr       */
+/*   Updated: 2025/03/07 17:52:23 by gchauvet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "push_swap.h"
-#include "libft/libft.h"
+#include <unistd.h>
 
 static int	store_stack(int argc, char **argv, t_stack **root_a)
 {
@@ -53,7 +53,7 @@ int	main(int argc, char **argv)
 		return (0);
 	if (check_error(argc, argv))
 	{
-		ft_printf("Error\n");
+		write(2, "Error\n", 6);
 		return (0);
 	}
 	if (store_stack(argc, argv, &root_a) == 0)
